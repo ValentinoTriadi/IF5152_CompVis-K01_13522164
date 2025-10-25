@@ -1,0 +1,376 @@
+{
+  "Personal_Image Translation": {
+    "type": "Translation",
+    "tx": 50,
+    "ty": 30,
+    "matrix": [
+      [
+        1.0,
+        0.0,
+        50.0
+      ],
+      [
+        0.0,
+        1.0,
+        30.0
+      ]
+    ],
+    "calibration": {
+      "pattern_found": false,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 0,
+      "reason": "Pattern not detected - ensure checkerboard is visible and well-lit"
+    }
+  },
+  "Personal_Image Rotation_15": {
+    "type": "Rotation",
+    "angle": 15,
+    "center": [
+      2000,
+      2000
+    ],
+    "matrix": [
+      [
+        0.9659258262890683,
+        0.25881904510252074,
+        -449.48974278317814
+      ],
+      [
+        -0.25881904510252074,
+        0.9659258262890683,
+        585.7864376269049
+      ]
+    ],
+    "calibration": {
+      "pattern_found": false,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 0,
+      "reason": "Pattern not detected - ensure checkerboard is visible and well-lit"
+    }
+  },
+  "Personal_Image Rotation_45": {
+    "type": "Rotation",
+    "angle": 45,
+    "center": [
+      2000,
+      2000
+    ],
+    "matrix": [
+      [
+        0.7071067811865476,
+        0.7071067811865475,
+        -828.42712474619
+      ],
+      [
+        -0.7071067811865475,
+        0.7071067811865476,
+        1999.9999999999998
+      ]
+    ],
+    "calibration": {
+      "pattern_found": false,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 0,
+      "reason": "Pattern not detected - ensure checkerboard is visible and well-lit"
+    }
+  },
+  "Personal_Image Rotation_90": {
+    "type": "Rotation",
+    "angle": 90,
+    "center": [
+      2000,
+      2000
+    ],
+    "matrix": [
+      [
+        6.123233995736766e-17,
+        1.0,
+        -2.220446049250313e-13
+      ],
+      [
+        -1.0,
+        6.123233995736766e-17,
+        4000.0
+      ]
+    ],
+    "calibration": {
+      "pattern_found": false,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 0,
+      "reason": "Pattern not detected - ensure checkerboard is visible and well-lit"
+    }
+  },
+  "Personal_Image Affine_1": {
+    "type": "Affine",
+    "src_points": [
+      [
+        50.0,
+        50.0
+      ],
+      [
+        3950.0,
+        50.0
+      ],
+      [
+        50.0,
+        3950.0
+      ]
+    ],
+    "dst_points": [
+      [
+        30.0,
+        70.0
+      ],
+      [
+        3970.0,
+        30.0
+      ],
+      [
+        70.0,
+        3930.0
+      ]
+    ],
+    "matrix": [
+      [
+        1.0102564102564102,
+        0.010256410256410258,
+        -21.02564102564103
+      ],
+      [
+        -0.010256410256410255,
+        0.9897435897435898,
+        21.025641025641015
+      ]
+    ],
+    "calibration": {
+      "pattern_found": false,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 0,
+      "reason": "Pattern not detected - ensure checkerboard is visible and well-lit"
+    }
+  },
+  "Personal_Image Affine_2": {
+    "type": "Affine",
+    "src_points": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        4000.0,
+        0.0
+      ],
+      [
+        0.0,
+        4000.0
+      ]
+    ],
+    "dst_points": [
+      [
+        400.0,
+        0.0
+      ],
+      [
+        3600.0,
+        400.0
+      ],
+      [
+        400.0,
+        3600.0
+      ]
+    ],
+    "matrix": [
+      [
+        0.8,
+        0.0,
+        400.0
+      ],
+      [
+        0.1,
+        0.9,
+        0.0
+      ]
+    ],
+    "calibration": {
+      "pattern_found": false,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 0,
+      "reason": "Pattern not detected - ensure checkerboard is visible and well-lit"
+    }
+  },
+  "Personal_Image Perspective_1": {
+    "type": "Perspective",
+    "src_points": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        4000.0,
+        0.0
+      ],
+      [
+        4000.0,
+        4000.0
+      ],
+      [
+        0.0,
+        4000.0
+      ]
+    ],
+    "dst_points": [
+      [
+        400.0,
+        0.0
+      ],
+      [
+        3600.0,
+        200.0
+      ],
+      [
+        3400.0,
+        3800.0
+      ],
+      [
+        200.0,
+        4000.0
+      ]
+    ],
+    "matrix": [
+      [
+        0.9003484320557491,
+        -0.04965156794425087,
+        400.0
+      ],
+      [
+        0.05557491289198606,
+        1.0069686411149825,
+        0.0
+      ],
+      [
+        2.7874564459930312e-05,
+        1.7421602787456445e-06,
+        1.0
+      ]
+    ],
+    "calibration": {
+      "pattern_found": false,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 0,
+      "reason": "Pattern not detected - ensure checkerboard is visible and well-lit"
+    }
+  },
+  "Personal_Image Perspective_2": {
+    "type": "Perspective",
+    "src_points": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        4000.0,
+        0.0
+      ],
+      [
+        4000.0,
+        4000.0
+      ],
+      [
+        0.0,
+        4000.0
+      ]
+    ],
+    "dst_points": [
+      [
+        800.0,
+        400.0
+      ],
+      [
+        3200.0,
+        600.0
+      ],
+      [
+        3600.0,
+        3600.0
+      ],
+      [
+        600.0,
+        3400.0
+      ]
+    ],
+    "matrix": [
+      [
+        0.6107623318385651,
+        -0.0802690582959641,
+        800.0
+      ],
+      [
+        0.05201793721973094,
+        0.5784753363228701,
+        400.0
+      ],
+      [
+        3.3632286995515695e-06,
+        -5.044843049327354e-05,
+        1.0
+      ]
+    ],
+    "calibration": {
+      "pattern_found": false,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 0,
+      "reason": "Pattern not detected - ensure checkerboard is visible and well-lit"
+    }
+  },
+  "Personal_Image Calibration_Original": {
+    "pattern_found": false,
+    "pattern_size": [
+      7,
+      7
+    ],
+    "square_size": 1.0,
+    "num_corners": 49,
+    "corners_found": 0,
+    "reason": "Pattern not detected - ensure checkerboard is visible and well-lit"
+  }
+}

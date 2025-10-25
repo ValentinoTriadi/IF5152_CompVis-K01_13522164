@@ -1,0 +1,398 @@
+{
+  "Camera Harris (Block=2, k=0.04)": {
+    "num_features": 4199,
+    "max_response": 123564768.0,
+    "mean_response": 7207999.5,
+    "threshold": 1235647.625
+  },
+  "Camera Harris (Block=3, k=0.04)": {
+    "num_features": 5655,
+    "max_response": 125533112.0,
+    "mean_response": 7589552.5,
+    "threshold": 1255331.125
+  },
+  "Camera Harris (Block=5, k=0.04)": {
+    "num_features": 10070,
+    "max_response": 61041768.0,
+    "mean_response": 4255088.5,
+    "threshold": 610417.6875
+  },
+  "Camera SIFT (N=100)": {
+    "num_features": 101,
+    "max_response": 0.10164634138345718,
+    "mean_response": 0.06541162825161868,
+    "min_response": 0.05060167610645294,
+    "mean_size": 9.477359409379487,
+    "max_size": 161.2345428466797,
+    "min_size": 1.8025572299957275
+  },
+  "Camera SIFT (N=200)": {
+    "num_features": 200,
+    "max_response": 0.10164634138345718,
+    "mean_response": 0.055175592098385094,
+    "min_response": 0.0404629185795784,
+    "mean_size": 7.749022533893585,
+    "max_size": 161.2345428466797,
+    "min_size": 1.802510142326355
+  },
+  "Camera SIFT (All)": {
+    "num_features": 791,
+    "max_response": 0.10164634138345718,
+    "mean_response": 0.03179750355330264,
+    "min_response": 0.01340794749557972,
+    "mean_size": 4.816169482868933,
+    "max_size": 161.2345428466797,
+    "min_size": 1.7983061075210571
+  },
+  "Camera FAST (Threshold=10)": {
+    "num_features": 6155,
+    "max_response": 183.0,
+    "mean_response": 23.354021121039803,
+    "min_response": 10.0,
+    "mean_size": 7.0
+  },
+  "Camera FAST (Threshold=25)": {
+    "num_features": 1916,
+    "max_response": 183.0,
+    "mean_response": 39.84812108559499,
+    "min_response": 25.0,
+    "mean_size": 7.0
+  },
+  "Camera FAST (Threshold=50)": {
+    "num_features": 330,
+    "max_response": 183.0,
+    "mean_response": 75.50909090909092,
+    "min_response": 50.0,
+    "mean_size": 7.0
+  },
+  "Coin Harris (Block=2, k=0.04)": {
+    "num_features": 7144,
+    "max_response": 47344292.0,
+    "mean_response": 2170549.5,
+    "threshold": 473442.90625
+  },
+  "Coin Harris (Block=3, k=0.04)": {
+    "num_features": 6568,
+    "max_response": 66689312.0,
+    "mean_response": 2848005.0,
+    "threshold": 666893.125
+  },
+  "Coin Harris (Block=5, k=0.04)": {
+    "num_features": 12022,
+    "max_response": 33695572.0,
+    "mean_response": 1642526.0,
+    "threshold": 336955.71875
+  },
+  "Coin SIFT (N=100)": {
+    "num_features": 100,
+    "max_response": 0.08342606574296951,
+    "mean_response": 0.053607370778918265,
+    "min_response": 0.04370885342359543,
+    "mean_size": 8.399975204467774,
+    "max_size": 32.897239685058594,
+    "min_size": 1.8047975301742554
+  },
+  "Coin SIFT (N=200)": {
+    "num_features": 200,
+    "max_response": 0.08342606574296951,
+    "mean_response": 0.04577925994992256,
+    "min_response": 0.03376806899905205,
+    "mean_size": 7.136406511664391,
+    "max_size": 32.897239685058594,
+    "min_size": 1.7963517904281616
+  },
+  "Coin SIFT (All)": {
+    "num_features": 655,
+    "max_response": 0.08342606574296951,
+    "mean_response": 0.029677704460065783,
+    "min_response": 0.013361978344619274,
+    "mean_size": 4.481609161573512,
+    "max_size": 32.897239685058594,
+    "min_size": 1.7963517904281616
+  },
+  "Coin FAST (Threshold=10)": {
+    "num_features": 3470,
+    "max_response": 175.0,
+    "mean_response": 26.602881844380402,
+    "min_response": 10.0,
+    "mean_size": 7.0
+  },
+  "Coin FAST (Threshold=25)": {
+    "num_features": 1501,
+    "max_response": 175.0,
+    "mean_response": 40.7761492338441,
+    "min_response": 25.0,
+    "mean_size": 7.0
+  },
+  "Coin FAST (Threshold=50)": {
+    "num_features": 331,
+    "max_response": 175.0,
+    "mean_response": 64.72507552870091,
+    "min_response": 50.0,
+    "mean_size": 7.0
+  },
+  "Checkerboard Harris (Block=2, k=0.04)": {
+    "num_features": 1225,
+    "max_response": 87110368.0,
+    "mean_response": 87110368.0,
+    "threshold": 871103.6875
+  },
+  "Checkerboard Harris (Block=3, k=0.04)": {
+    "num_features": 1764,
+    "max_response": 105715112.0,
+    "mean_response": 93839200.0,
+    "threshold": 1057151.125
+  },
+  "Checkerboard Harris (Block=5, k=0.04)": {
+    "num_features": 3136,
+    "max_response": 101362824.0,
+    "mean_response": 83283016.0,
+    "threshold": 1013628.1875
+  },
+  "Checkerboard SIFT (N=100)": {
+    "num_features": 102,
+    "max_response": 0.12933564186096191,
+    "mean_response": 0.1291886530086106,
+    "min_response": 0.1291036456823349,
+    "mean_size": 15.268295877120075,
+    "max_size": 15.300857543945312,
+    "min_size": 15.223487854003906
+  },
+  "Checkerboard SIFT (N=200)": {
+    "num_features": 134,
+    "max_response": 0.12933564186096191,
+    "mean_response": 0.128462636648719,
+    "min_response": 0.08216609060764313,
+    "mean_size": 15.260097994733213,
+    "max_size": 15.31749153137207,
+    "min_size": 14.149176597595215
+  },
+  "Checkerboard SIFT (All)": {
+    "num_features": 134,
+    "max_response": 0.12933564186096191,
+    "mean_response": 0.128462636648719,
+    "min_response": 0.08216609060764313,
+    "mean_size": 15.260097994733213,
+    "max_size": 15.31749153137207,
+    "min_size": 14.149176597595215
+  },
+  "Checkerboard FAST (Threshold=10)": {
+    "num_features": 196,
+    "max_response": 79.0,
+    "mean_response": 79.0,
+    "min_response": 79.0,
+    "mean_size": 7.0
+  },
+  "Checkerboard FAST (Threshold=25)": {
+    "num_features": 196,
+    "max_response": 79.0,
+    "mean_response": 79.0,
+    "min_response": 79.0,
+    "mean_size": 7.0
+  },
+  "Checkerboard FAST (Threshold=50)": {
+    "num_features": 196,
+    "max_response": 79.0,
+    "mean_response": 79.0,
+    "min_response": 79.0,
+    "mean_size": 7.0
+  },
+  "Astronaut Harris (Block=2, k=0.04)": {
+    "num_features": 5942,
+    "max_response": 165711248.0,
+    "mean_response": 9795292.0,
+    "threshold": 1657112.5
+  },
+  "Astronaut Harris (Block=3, k=0.04)": {
+    "num_features": 8276,
+    "max_response": 161813152.0,
+    "mean_response": 9856952.0,
+    "threshold": 1618131.5
+  },
+  "Astronaut Harris (Block=5, k=0.04)": {
+    "num_features": 13901,
+    "max_response": 93004272.0,
+    "mean_response": 6105970.0,
+    "threshold": 930042.6875
+  },
+  "Astronaut SIFT (N=100)": {
+    "num_features": 100,
+    "max_response": 0.1512647420167923,
+    "mean_response": 0.07657134033739567,
+    "min_response": 0.06367960572242737,
+    "mean_size": 8.387605848312377,
+    "max_size": 80.67408752441406,
+    "min_size": 1.8129841089248657
+  },
+  "Astronaut SIFT (N=200)": {
+    "num_features": 200,
+    "max_response": 0.1512647420167923,
+    "mean_response": 0.06733264831826091,
+    "min_response": 0.05247323215007782,
+    "mean_size": 7.436927528381347,
+    "max_size": 80.67408752441406,
+    "min_size": 1.8129841089248657
+  },
+  "Astronaut SIFT (All)": {
+    "num_features": 1105,
+    "max_response": 0.1512647420167923,
+    "mean_response": 0.0358730735746107,
+    "min_response": 0.013349253684282303,
+    "mean_size": 5.317792924281159,
+    "max_size": 80.67408752441406,
+    "min_size": 1.7960747480392456
+  },
+  "Astronaut FAST (Threshold=10)": {
+    "num_features": 3688,
+    "max_response": 210.0,
+    "mean_response": 28.88313449023861,
+    "min_response": 10.0,
+    "mean_size": 7.0
+  },
+  "Astronaut FAST (Threshold=25)": {
+    "num_features": 1449,
+    "max_response": 210.0,
+    "mean_response": 50.07867494824016,
+    "min_response": 25.0,
+    "mean_size": 7.0
+  },
+  "Astronaut FAST (Threshold=50)": {
+    "num_features": 525,
+    "max_response": 210.0,
+    "mean_response": 78.35809523809523,
+    "min_response": 50.0,
+    "mean_size": 7.0
+  },
+  "Chelsea Harris (Block=2, k=0.04)": {
+    "num_features": 1006,
+    "max_response": 33275804.0,
+    "mean_response": 1069393.125,
+    "threshold": 332758.03125
+  },
+  "Chelsea Harris (Block=3, k=0.04)": {
+    "num_features": 1323,
+    "max_response": 31049060.0,
+    "mean_response": 991570.25,
+    "threshold": 310490.59375
+  },
+  "Chelsea Harris (Block=5, k=0.04)": {
+    "num_features": 6208,
+    "max_response": 9797657.0,
+    "mean_response": 260056.40625,
+    "threshold": 97976.5703125
+  },
+  "Chelsea SIFT (N=100)": {
+    "num_features": 100,
+    "max_response": 0.050494417548179626,
+    "mean_response": 0.03220717679709196,
+    "min_response": 0.025576328858733177,
+    "mean_size": 7.535753285884857,
+    "max_size": 27.823135375976562,
+    "min_size": 1.857866644859314
+  },
+  "Chelsea SIFT (N=200)": {
+    "num_features": 200,
+    "max_response": 0.050494417548179626,
+    "mean_response": 0.02767244677990675,
+    "min_response": 0.02079828269779682,
+    "mean_size": 6.845904187560081,
+    "max_size": 55.5996208190918,
+    "min_size": 1.824808955192566
+  },
+  "Chelsea SIFT (All)": {
+    "num_features": 559,
+    "max_response": 0.050494417548179626,
+    "mean_response": 0.0205930268528583,
+    "min_response": 0.01337012741714716,
+    "mean_size": 4.9662959980836705,
+    "max_size": 55.5996208190918,
+    "min_size": 1.802443504333496
+  },
+  "Chelsea FAST (Threshold=10)": {
+    "num_features": 3013,
+    "max_response": 132.0,
+    "mean_response": 17.709923664122137,
+    "min_response": 10.0,
+    "mean_size": 7.0
+  },
+  "Chelsea FAST (Threshold=25)": {
+    "num_features": 466,
+    "max_response": 132.0,
+    "mean_response": 32.27038626609442,
+    "min_response": 25.0,
+    "mean_size": 7.0
+  },
+  "Chelsea FAST (Threshold=50)": {
+    "num_features": 19,
+    "max_response": 132.0,
+    "mean_response": 59.78947368421053,
+    "min_response": 51.0,
+    "mean_size": 7.0
+  },
+  "Personal_Image Harris (Block=2, k=0.04)": {
+    "num_features": 13779,
+    "max_response": 5730441.5,
+    "mean_response": 310780.21875,
+    "threshold": 57304.4140625
+  },
+  "Personal_Image Harris (Block=3, k=0.04)": {
+    "num_features": 26251,
+    "max_response": 4652582.5,
+    "mean_response": 278250.46875,
+    "threshold": 46525.82421875
+  },
+  "Personal_Image Harris (Block=5, k=0.04)": {
+    "num_features": 54225,
+    "max_response": 2787674.25,
+    "mean_response": 170746.828125,
+    "threshold": 27876.7421875
+  },
+  "Personal_Image SIFT (N=100)": {
+    "num_features": 101,
+    "max_response": 0.046019040048122406,
+    "mean_response": 0.043601503835456204,
+    "min_response": 0.04258609190583229,
+    "mean_size": 19.05454695578849,
+    "max_size": 76.02017211914062,
+    "min_size": 7.02611780166626
+  },
+  "Personal_Image SIFT (N=200)": {
+    "num_features": 200,
+    "max_response": 0.046019040048122406,
+    "mean_response": 0.042745084036141634,
+    "min_response": 0.041207894682884216,
+    "mean_size": 19.505352940559387,
+    "max_size": 76.02017211914062,
+    "min_size": 5.399997711181641
+  },
+  "Personal_Image SIFT (All)": {
+    "num_features": 2934,
+    "max_response": 0.046019040048122406,
+    "mean_response": 0.023726202893542568,
+    "min_response": 0.013333633542060852,
+    "mean_size": 17.07556155634804,
+    "max_size": 1373.6617431640625,
+    "min_size": 1.8260771036148071
+  },
+  "Personal_Image FAST (Threshold=10)": {
+    "num_features": 3755,
+    "max_response": 82.0,
+    "mean_response": 26.792276964047936,
+    "min_response": 10.0,
+    "mean_size": 7.0
+  },
+  "Personal_Image FAST (Threshold=25)": {
+    "num_features": 1825,
+    "max_response": 82.0,
+    "mean_response": 37.48931506849315,
+    "min_response": 25.0,
+    "mean_size": 7.0
+  },
+  "Personal_Image FAST (Threshold=50)": {
+    "num_features": 235,
+    "max_response": 82.0,
+    "mean_response": 65.28085106382979,
+    "min_response": 50.0,
+    "mean_size": 7.0
+  }
+}

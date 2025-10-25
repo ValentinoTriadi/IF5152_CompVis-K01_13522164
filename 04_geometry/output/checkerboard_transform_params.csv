@@ -1,0 +1,10 @@
+Transform_Name,Type,Parameters,Matrix,Pattern_Detected,Corners_Found
+Checkerboard Translation,Translation,"tx=50, ty=30","[[1.0, 0.0, 50.0], [0.0, 1.0, 30.0]]",False,0
+Checkerboard Rotation_15,Rotation,"angle=15°, center=[100, 100]","[[0.9659258262890683, 0.25881904510252074, -22.474487139158907], [-0.25881904510252074, 0.9659258262890683, 29.28932188134524]]",False,0
+Checkerboard Rotation_45,Rotation,"angle=45°, center=[100, 100]","[[0.7071067811865476, 0.7071067811865475, -41.421356237309496], [-0.7071067811865475, 0.7071067811865476, 99.99999999999999]]",False,0
+Checkerboard Rotation_90,Rotation,"angle=90°, center=[100, 100]","[[6.123233995736766e-17, 1.0, -1.1102230246251565e-14], [-1.0, 6.123233995736766e-17, 200.0]]",True,49
+Checkerboard Affine_1,Affine,"src_pts=3 pts, dst_pts=3 pts","[[1.4, 0.3999999999999999, -60.00000000000001], [-0.4, 0.5999999999999999, 60.000000000000014]]",False,0
+Checkerboard Affine_2,Affine,"src_pts=3 pts, dst_pts=3 pts","[[0.8, 0.0, 20.0], [0.1, 0.9, 0.0]]",False,0
+Checkerboard Perspective_1,Perspective,"src_pts=4 pts, dst_pts=4 pts","[[0.9003484320557491, -0.04965156794425087, 20.0], [0.05557491289198606, 1.0069686411149825, 0.0], [0.0005574912891986063, 3.484320557491289e-05, 1.0]]",False,0
+Checkerboard Perspective_2,Perspective,"src_pts=4 pts, dst_pts=4 pts","[[0.610762331838565, -0.08026905829596415, 40.0], [0.05201793721973094, 0.5784753363228701, 20.0], [6.72645739910314e-05, -0.001008968609865471, 1.0]]",True,49
+Checkerboard Calibration_Original,Calibration,"pattern_size=[7, 7], square_size=1.0",pattern_found=True,True,49

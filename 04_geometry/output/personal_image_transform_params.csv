@@ -1,0 +1,10 @@
+Transform_Name,Type,Parameters,Matrix,Pattern_Detected,Corners_Found
+Personal_Image Translation,Translation,"tx=50, ty=30","[[1.0, 0.0, 50.0], [0.0, 1.0, 30.0]]",False,0
+Personal_Image Rotation_15,Rotation,"angle=15°, center=[2000, 2000]","[[0.9659258262890683, 0.25881904510252074, -449.48974278317814], [-0.25881904510252074, 0.9659258262890683, 585.7864376269049]]",False,0
+Personal_Image Rotation_45,Rotation,"angle=45°, center=[2000, 2000]","[[0.7071067811865476, 0.7071067811865475, -828.42712474619], [-0.7071067811865475, 0.7071067811865476, 1999.9999999999998]]",False,0
+Personal_Image Rotation_90,Rotation,"angle=90°, center=[2000, 2000]","[[6.123233995736766e-17, 1.0, -2.220446049250313e-13], [-1.0, 6.123233995736766e-17, 4000.0]]",False,0
+Personal_Image Affine_1,Affine,"src_pts=3 pts, dst_pts=3 pts","[[1.0102564102564102, 0.010256410256410258, -21.02564102564103], [-0.010256410256410255, 0.9897435897435898, 21.025641025641015]]",False,0
+Personal_Image Affine_2,Affine,"src_pts=3 pts, dst_pts=3 pts","[[0.8, 0.0, 400.0], [0.1, 0.9, 0.0]]",False,0
+Personal_Image Perspective_1,Perspective,"src_pts=4 pts, dst_pts=4 pts","[[0.9003484320557491, -0.04965156794425087, 400.0], [0.05557491289198606, 1.0069686411149825, 0.0], [2.7874564459930312e-05, 1.7421602787456445e-06, 1.0]]",False,0
+Personal_Image Perspective_2,Perspective,"src_pts=4 pts, dst_pts=4 pts","[[0.6107623318385651, -0.0802690582959641, 800.0], [0.05201793721973094, 0.5784753363228701, 400.0], [3.3632286995515695e-06, -5.044843049327354e-05, 1.0]]",False,0
+Personal_Image Calibration_Original,Calibration,"pattern_size=[7, 7], square_size=1.0",pattern_found=False,False,0

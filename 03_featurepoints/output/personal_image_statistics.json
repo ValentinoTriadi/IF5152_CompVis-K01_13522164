@@ -1,0 +1,68 @@
+{
+  "Personal_Image Harris (Block=2, k=0.04)": {
+    "num_features": 13779,
+    "max_response": 5730441.5,
+    "mean_response": 310780.21875,
+    "threshold": 57304.4140625
+  },
+  "Personal_Image Harris (Block=3, k=0.04)": {
+    "num_features": 26251,
+    "max_response": 4652582.5,
+    "mean_response": 278250.46875,
+    "threshold": 46525.82421875
+  },
+  "Personal_Image Harris (Block=5, k=0.04)": {
+    "num_features": 54225,
+    "max_response": 2787674.25,
+    "mean_response": 170746.828125,
+    "threshold": 27876.7421875
+  },
+  "Personal_Image SIFT (N=100)": {
+    "num_features": 101,
+    "max_response": 0.046019040048122406,
+    "mean_response": 0.043601503835456204,
+    "min_response": 0.04258609190583229,
+    "mean_size": 19.05454695578849,
+    "max_size": 76.02017211914062,
+    "min_size": 7.02611780166626
+  },
+  "Personal_Image SIFT (N=200)": {
+    "num_features": 200,
+    "max_response": 0.046019040048122406,
+    "mean_response": 0.042745084036141634,
+    "min_response": 0.041207894682884216,
+    "mean_size": 19.505352940559387,
+    "max_size": 76.02017211914062,
+    "min_size": 5.399997711181641
+  },
+  "Personal_Image SIFT (All)": {
+    "num_features": 2934,
+    "max_response": 0.046019040048122406,
+    "mean_response": 0.023726202893542568,
+    "min_response": 0.013333633542060852,
+    "mean_size": 17.07556155634804,
+    "max_size": 1373.6617431640625,
+    "min_size": 1.8260771036148071
+  },
+  "Personal_Image FAST (Threshold=10)": {
+    "num_features": 3755,
+    "max_response": 82.0,
+    "mean_response": 26.792276964047936,
+    "min_response": 10.0,
+    "mean_size": 7.0
+  },
+  "Personal_Image FAST (Threshold=25)": {
+    "num_features": 1825,
+    "max_response": 82.0,
+    "mean_response": 37.48931506849315,
+    "min_response": 25.0,
+    "mean_size": 7.0
+  },
+  "Personal_Image FAST (Threshold=50)": {
+    "num_features": 235,
+    "max_response": 82.0,
+    "mean_response": 65.28085106382979,
+    "min_response": 50.0,
+    "mean_size": 7.0
+  }
+}

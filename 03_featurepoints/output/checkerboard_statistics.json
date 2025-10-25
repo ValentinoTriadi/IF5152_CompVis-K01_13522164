@@ -1,0 +1,68 @@
+{
+  "Checkerboard Harris (Block=2, k=0.04)": {
+    "num_features": 1225,
+    "max_response": 87110368.0,
+    "mean_response": 87110368.0,
+    "threshold": 871103.6875
+  },
+  "Checkerboard Harris (Block=3, k=0.04)": {
+    "num_features": 1764,
+    "max_response": 105715112.0,
+    "mean_response": 93839200.0,
+    "threshold": 1057151.125
+  },
+  "Checkerboard Harris (Block=5, k=0.04)": {
+    "num_features": 3136,
+    "max_response": 101362824.0,
+    "mean_response": 83283016.0,
+    "threshold": 1013628.1875
+  },
+  "Checkerboard SIFT (N=100)": {
+    "num_features": 102,
+    "max_response": 0.12933564186096191,
+    "mean_response": 0.1291886530086106,
+    "min_response": 0.1291036456823349,
+    "mean_size": 15.268295877120075,
+    "max_size": 15.300857543945312,
+    "min_size": 15.223487854003906
+  },
+  "Checkerboard SIFT (N=200)": {
+    "num_features": 134,
+    "max_response": 0.12933564186096191,
+    "mean_response": 0.128462636648719,
+    "min_response": 0.08216609060764313,
+    "mean_size": 15.260097994733213,
+    "max_size": 15.31749153137207,
+    "min_size": 14.149176597595215
+  },
+  "Checkerboard SIFT (All)": {
+    "num_features": 134,
+    "max_response": 0.12933564186096191,
+    "mean_response": 0.128462636648719,
+    "min_response": 0.08216609060764313,
+    "mean_size": 15.260097994733213,
+    "max_size": 15.31749153137207,
+    "min_size": 14.149176597595215
+  },
+  "Checkerboard FAST (Threshold=10)": {
+    "num_features": 196,
+    "max_response": 79.0,
+    "mean_response": 79.0,
+    "min_response": 79.0,
+    "mean_size": 7.0
+  },
+  "Checkerboard FAST (Threshold=25)": {
+    "num_features": 196,
+    "max_response": 79.0,
+    "mean_response": 79.0,
+    "min_response": 79.0,
+    "mean_size": 7.0
+  },
+  "Checkerboard FAST (Threshold=50)": {
+    "num_features": 196,
+    "max_response": 79.0,
+    "mean_response": 79.0,
+    "min_response": 79.0,
+    "mean_size": 7.0
+  }
+}

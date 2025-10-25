@@ -1,0 +1,418 @@
+{
+  "Checkerboard Translation": {
+    "type": "Translation",
+    "tx": 50,
+    "ty": 30,
+    "matrix": [
+      [
+        1.0,
+        0.0,
+        50.0
+      ],
+      [
+        0.0,
+        1.0,
+        30.0
+      ]
+    ],
+    "calibration": {
+      "pattern_found": false,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 0,
+      "reason": "Pattern not detected - ensure checkerboard is visible and well-lit"
+    }
+  },
+  "Checkerboard Rotation_15": {
+    "type": "Rotation",
+    "angle": 15,
+    "center": [
+      100,
+      100
+    ],
+    "matrix": [
+      [
+        0.9659258262890683,
+        0.25881904510252074,
+        -22.474487139158907
+      ],
+      [
+        -0.25881904510252074,
+        0.9659258262890683,
+        29.28932188134524
+      ]
+    ],
+    "calibration": {
+      "pattern_found": false,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 0,
+      "reason": "Pattern not detected - ensure checkerboard is visible and well-lit"
+    }
+  },
+  "Checkerboard Rotation_45": {
+    "type": "Rotation",
+    "angle": 45,
+    "center": [
+      100,
+      100
+    ],
+    "matrix": [
+      [
+        0.7071067811865476,
+        0.7071067811865475,
+        -41.421356237309496
+      ],
+      [
+        -0.7071067811865475,
+        0.7071067811865476,
+        99.99999999999999
+      ]
+    ],
+    "calibration": {
+      "pattern_found": false,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 0,
+      "reason": "Pattern not detected - ensure checkerboard is visible and well-lit"
+    }
+  },
+  "Checkerboard Rotation_90": {
+    "type": "Rotation",
+    "angle": 90,
+    "center": [
+      100,
+      100
+    ],
+    "matrix": [
+      [
+        6.123233995736766e-17,
+        1.0,
+        -1.1102230246251565e-14
+      ],
+      [
+        -1.0,
+        6.123233995736766e-17,
+        200.0
+      ]
+    ],
+    "calibration": {
+      "pattern_found": true,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 49,
+      "first_corner": [
+        [
+          24.5,
+          25.5
+        ]
+      ],
+      "last_corner": [
+        [
+          174.5,
+          175.5
+        ]
+      ],
+      "avg_corner_quality": 111.48488686813114,
+      "min_corner_quality": 111.48488686813114,
+      "max_corner_quality": 111.48488686813114
+    }
+  },
+  "Checkerboard Affine_1": {
+    "type": "Affine",
+    "src_points": [
+      [
+        50.0,
+        50.0
+      ],
+      [
+        150.0,
+        50.0
+      ],
+      [
+        50.0,
+        150.0
+      ]
+    ],
+    "dst_points": [
+      [
+        30.0,
+        70.0
+      ],
+      [
+        170.0,
+        30.0
+      ],
+      [
+        70.0,
+        130.0
+      ]
+    ],
+    "matrix": [
+      [
+        1.4,
+        0.3999999999999999,
+        -60.00000000000001
+      ],
+      [
+        -0.4,
+        0.5999999999999999,
+        60.000000000000014
+      ]
+    ],
+    "calibration": {
+      "pattern_found": false,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 0,
+      "reason": "Pattern not detected - ensure checkerboard is visible and well-lit"
+    }
+  },
+  "Checkerboard Affine_2": {
+    "type": "Affine",
+    "src_points": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        200.0,
+        0.0
+      ],
+      [
+        0.0,
+        200.0
+      ]
+    ],
+    "dst_points": [
+      [
+        20.0,
+        0.0
+      ],
+      [
+        180.0,
+        20.0
+      ],
+      [
+        20.0,
+        180.0
+      ]
+    ],
+    "matrix": [
+      [
+        0.8,
+        0.0,
+        20.0
+      ],
+      [
+        0.1,
+        0.9,
+        0.0
+      ]
+    ],
+    "calibration": {
+      "pattern_found": false,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 0,
+      "reason": "Pattern not detected - ensure checkerboard is visible and well-lit"
+    }
+  },
+  "Checkerboard Perspective_1": {
+    "type": "Perspective",
+    "src_points": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        200.0,
+        0.0
+      ],
+      [
+        200.0,
+        200.0
+      ],
+      [
+        0.0,
+        200.0
+      ]
+    ],
+    "dst_points": [
+      [
+        20.0,
+        0.0
+      ],
+      [
+        180.0,
+        10.0
+      ],
+      [
+        170.0,
+        190.0
+      ],
+      [
+        10.0,
+        200.0
+      ]
+    ],
+    "matrix": [
+      [
+        0.9003484320557491,
+        -0.04965156794425087,
+        20.0
+      ],
+      [
+        0.05557491289198606,
+        1.0069686411149825,
+        0.0
+      ],
+      [
+        0.0005574912891986063,
+        3.484320557491289e-05,
+        1.0
+      ]
+    ],
+    "calibration": {
+      "pattern_found": false,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 0,
+      "reason": "Pattern not detected - ensure checkerboard is visible and well-lit"
+    }
+  },
+  "Checkerboard Perspective_2": {
+    "type": "Perspective",
+    "src_points": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        200.0,
+        0.0
+      ],
+      [
+        200.0,
+        200.0
+      ],
+      [
+        0.0,
+        200.0
+      ]
+    ],
+    "dst_points": [
+      [
+        40.0,
+        20.0
+      ],
+      [
+        160.0,
+        30.0
+      ],
+      [
+        180.0,
+        180.0
+      ],
+      [
+        30.0,
+        170.0
+      ]
+    ],
+    "matrix": [
+      [
+        0.610762331838565,
+        -0.08026905829596415,
+        40.0
+      ],
+      [
+        0.05201793721973094,
+        0.5784753363228701,
+        20.0
+      ],
+      [
+        6.72645739910314e-05,
+        -0.001008968609865471,
+        1.0
+      ]
+    ],
+    "calibration": {
+      "pattern_found": true,
+      "pattern_size": [
+        7,
+        7
+      ],
+      "square_size": 1.0,
+      "num_corners": 49,
+      "corners_found": 49,
+      "first_corner": [
+        [
+          54.35151290893555,
+          36.2921142578125
+        ]
+      ],
+      "last_corner": [
+        [
+          158.626220703125,
+          155.57371520996094
+        ]
+      ],
+      "avg_corner_quality": 113.54082595492679,
+      "min_corner_quality": 111.01371807123657,
+      "max_corner_quality": 120.13021435092838
+    }
+  },
+  "Checkerboard Calibration_Original": {
+    "pattern_found": true,
+    "pattern_size": [
+      7,
+      7
+    ],
+    "square_size": 1.0,
+    "num_corners": 49,
+    "corners_found": 49,
+    "first_corner": [
+      [
+        24.49997901916504,
+        24.499980926513672
+      ]
+    ],
+    "last_corner": [
+      [
+        174.50001525878906,
+        174.50001525878906
+      ]
+    ],
+    "avg_corner_quality": 111.48488686813114,
+    "min_corner_quality": 111.48488686813114,
+    "max_corner_quality": 111.48488686813114
+  }
+}

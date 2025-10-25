@@ -1,0 +1,19 @@
+Transform_Name,Image,Type,Parameters
+Checkerboard Translation,Checkerboard,Translation,"tx=50, ty=30"
+Checkerboard Rotation_15,Checkerboard,Rotation,angle=15°
+Checkerboard Rotation_45,Checkerboard,Rotation,angle=45°
+Checkerboard Rotation_90,Checkerboard,Rotation,angle=90°
+Checkerboard Affine_1,Checkerboard,Affine,Points: 3 correspondences
+Checkerboard Affine_2,Checkerboard,Affine,Points: 3 correspondences
+Checkerboard Perspective_1,Checkerboard,Perspective,Points: 4 correspondences
+Checkerboard Perspective_2,Checkerboard,Perspective,Points: 4 correspondences
+Checkerboard Calibration_Original,Checkerboard,Calibration,"Pattern: [7, 7], Found: True"
+Personal_Image Translation,Personal_Image,Translation,"tx=50, ty=30"
+Personal_Image Rotation_15,Personal_Image,Rotation,angle=15°
+Personal_Image Rotation_45,Personal_Image,Rotation,angle=45°
+Personal_Image Rotation_90,Personal_Image,Rotation,angle=90°
+Personal_Image Affine_1,Personal_Image,Affine,Points: 3 correspondences
+Personal_Image Affine_2,Personal_Image,Affine,Points: 3 correspondences
+Personal_Image Perspective_1,Personal_Image,Perspective,Points: 4 correspondences
+Personal_Image Perspective_2,Personal_Image,Perspective,Points: 4 correspondences
+Personal_Image Calibration_Original,Personal_Image,Calibration,"Pattern: [7, 7], Found: False"

@@ -1,0 +1,68 @@
+{
+  "Astronaut Harris (Block=2, k=0.04)": {
+    "num_features": 5942,
+    "max_response": 165711248.0,
+    "mean_response": 9795292.0,
+    "threshold": 1657112.5
+  },
+  "Astronaut Harris (Block=3, k=0.04)": {
+    "num_features": 8276,
+    "max_response": 161813152.0,
+    "mean_response": 9856952.0,
+    "threshold": 1618131.5
+  },
+  "Astronaut Harris (Block=5, k=0.04)": {
+    "num_features": 13901,
+    "max_response": 93004272.0,
+    "mean_response": 6105970.0,
+    "threshold": 930042.6875
+  },
+  "Astronaut SIFT (N=100)": {
+    "num_features": 100,
+    "max_response": 0.1512647420167923,
+    "mean_response": 0.07657134033739567,
+    "min_response": 0.06367960572242737,
+    "mean_size": 8.387605848312377,
+    "max_size": 80.67408752441406,
+    "min_size": 1.8129841089248657
+  },
+  "Astronaut SIFT (N=200)": {
+    "num_features": 200,
+    "max_response": 0.1512647420167923,
+    "mean_response": 0.06733264831826091,
+    "min_response": 0.05247323215007782,
+    "mean_size": 7.436927528381347,
+    "max_size": 80.67408752441406,
+    "min_size": 1.8129841089248657
+  },
+  "Astronaut SIFT (All)": {
+    "num_features": 1105,
+    "max_response": 0.1512647420167923,
+    "mean_response": 0.0358730735746107,
+    "min_response": 0.013349253684282303,
+    "mean_size": 5.317792924281159,
+    "max_size": 80.67408752441406,
+    "min_size": 1.7960747480392456
+  },
+  "Astronaut FAST (Threshold=10)": {
+    "num_features": 3688,
+    "max_response": 210.0,
+    "mean_response": 28.88313449023861,
+    "min_response": 10.0,
+    "mean_size": 7.0
+  },
+  "Astronaut FAST (Threshold=25)": {
+    "num_features": 1449,
+    "max_response": 210.0,
+    "mean_response": 50.07867494824016,
+    "min_response": 25.0,
+    "mean_size": 7.0
+  },
+  "Astronaut FAST (Threshold=50)": {
+    "num_features": 525,
+    "max_response": 210.0,
+    "mean_response": 78.35809523809523,
+    "min_response": 50.0,
+    "mean_size": 7.0
+  }
+}

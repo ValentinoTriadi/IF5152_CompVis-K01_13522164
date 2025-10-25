@@ -1,0 +1,68 @@
+{
+  "Coin Harris (Block=2, k=0.04)": {
+    "num_features": 7144,
+    "max_response": 47344292.0,
+    "mean_response": 2170549.5,
+    "threshold": 473442.90625
+  },
+  "Coin Harris (Block=3, k=0.04)": {
+    "num_features": 6568,
+    "max_response": 66689312.0,
+    "mean_response": 2848005.0,
+    "threshold": 666893.125
+  },
+  "Coin Harris (Block=5, k=0.04)": {
+    "num_features": 12022,
+    "max_response": 33695572.0,
+    "mean_response": 1642526.0,
+    "threshold": 336955.71875
+  },
+  "Coin SIFT (N=100)": {
+    "num_features": 100,
+    "max_response": 0.08342606574296951,
+    "mean_response": 0.053607370778918265,
+    "min_response": 0.04370885342359543,
+    "mean_size": 8.399975204467774,
+    "max_size": 32.897239685058594,
+    "min_size": 1.8047975301742554
+  },
+  "Coin SIFT (N=200)": {
+    "num_features": 200,
+    "max_response": 0.08342606574296951,
+    "mean_response": 0.04577925994992256,
+    "min_response": 0.03376806899905205,
+    "mean_size": 7.136406511664391,
+    "max_size": 32.897239685058594,
+    "min_size": 1.7963517904281616
+  },
+  "Coin SIFT (All)": {
+    "num_features": 655,
+    "max_response": 0.08342606574296951,
+    "mean_response": 0.029677704460065783,
+    "min_response": 0.013361978344619274,
+    "mean_size": 4.481609161573512,
+    "max_size": 32.897239685058594,
+    "min_size": 1.7963517904281616
+  },
+  "Coin FAST (Threshold=10)": {
+    "num_features": 3470,
+    "max_response": 175.0,
+    "mean_response": 26.602881844380402,
+    "min_response": 10.0,
+    "mean_size": 7.0
+  },
+  "Coin FAST (Threshold=25)": {
+    "num_features": 1501,
+    "max_response": 175.0,
+    "mean_response": 40.7761492338441,
+    "min_response": 25.0,
+    "mean_size": 7.0
+  },
+  "Coin FAST (Threshold=50)": {
+    "num_features": 331,
+    "max_response": 175.0,
+    "mean_response": 64.72507552870091,
+    "min_response": 50.0,
+    "mean_size": 7.0
+  }
+}

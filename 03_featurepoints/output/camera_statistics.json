@@ -1,0 +1,68 @@
+{
+  "Camera Harris (Block=2, k=0.04)": {
+    "num_features": 4199,
+    "max_response": 123564768.0,
+    "mean_response": 7207999.5,
+    "threshold": 1235647.625
+  },
+  "Camera Harris (Block=3, k=0.04)": {
+    "num_features": 5655,
+    "max_response": 125533112.0,
+    "mean_response": 7589552.5,
+    "threshold": 1255331.125
+  },
+  "Camera Harris (Block=5, k=0.04)": {
+    "num_features": 10070,
+    "max_response": 61041768.0,
+    "mean_response": 4255088.5,
+    "threshold": 610417.6875
+  },
+  "Camera SIFT (N=100)": {
+    "num_features": 101,
+    "max_response": 0.10164634138345718,
+    "mean_response": 0.06541162825161868,
+    "min_response": 0.05060167610645294,
+    "mean_size": 9.477359409379487,
+    "max_size": 161.2345428466797,
+    "min_size": 1.8025572299957275
+  },
+  "Camera SIFT (N=200)": {
+    "num_features": 200,
+    "max_response": 0.10164634138345718,
+    "mean_response": 0.055175592098385094,
+    "min_response": 0.0404629185795784,
+    "mean_size": 7.749022533893585,
+    "max_size": 161.2345428466797,
+    "min_size": 1.802510142326355
+  },
+  "Camera SIFT (All)": {
+    "num_features": 791,
+    "max_response": 0.10164634138345718,
+    "mean_response": 0.03179750355330264,
+    "min_response": 0.01340794749557972,
+    "mean_size": 4.816169482868933,
+    "max_size": 161.2345428466797,
+    "min_size": 1.7983061075210571
+  },
+  "Camera FAST (Threshold=10)": {
+    "num_features": 6155,
+    "max_response": 183.0,
+    "mean_response": 23.354021121039803,
+    "min_response": 10.0,
+    "mean_size": 7.0
+  },
+  "Camera FAST (Threshold=25)": {
+    "num_features": 1916,
+    "max_response": 183.0,
+    "mean_response": 39.84812108559499,
+    "min_response": 25.0,
+    "mean_size": 7.0
+  },
+  "Camera FAST (Threshold=50)": {
+    "num_features": 330,
+    "max_response": 183.0,
+    "mean_response": 75.50909090909092,
+    "min_response": 50.0,
+    "mean_size": 7.0
+  }
+}

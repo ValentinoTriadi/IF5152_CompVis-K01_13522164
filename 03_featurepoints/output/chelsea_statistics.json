@@ -1,0 +1,68 @@
+{
+  "Chelsea Harris (Block=2, k=0.04)": {
+    "num_features": 1006,
+    "max_response": 33275804.0,
+    "mean_response": 1069393.125,
+    "threshold": 332758.03125
+  },
+  "Chelsea Harris (Block=3, k=0.04)": {
+    "num_features": 1323,
+    "max_response": 31049060.0,
+    "mean_response": 991570.25,
+    "threshold": 310490.59375
+  },
+  "Chelsea Harris (Block=5, k=0.04)": {
+    "num_features": 6208,
+    "max_response": 9797657.0,
+    "mean_response": 260056.40625,
+    "threshold": 97976.5703125
+  },
+  "Chelsea SIFT (N=100)": {
+    "num_features": 100,
+    "max_response": 0.050494417548179626,
+    "mean_response": 0.03220717679709196,
+    "min_response": 0.025576328858733177,
+    "mean_size": 7.535753285884857,
+    "max_size": 27.823135375976562,
+    "min_size": 1.857866644859314
+  },
+  "Chelsea SIFT (N=200)": {
+    "num_features": 200,
+    "max_response": 0.050494417548179626,
+    "mean_response": 0.02767244677990675,
+    "min_response": 0.02079828269779682,
+    "mean_size": 6.845904187560081,
+    "max_size": 55.5996208190918,
+    "min_size": 1.824808955192566
+  },
+  "Chelsea SIFT (All)": {
+    "num_features": 559,
+    "max_response": 0.050494417548179626,
+    "mean_response": 0.0205930268528583,
+    "min_response": 0.01337012741714716,
+    "mean_size": 4.9662959980836705,
+    "max_size": 55.5996208190918,
+    "min_size": 1.802443504333496
+  },
+  "Chelsea FAST (Threshold=10)": {
+    "num_features": 3013,
+    "max_response": 132.0,
+    "mean_response": 17.709923664122137,
+    "min_response": 10.0,
+    "mean_size": 7.0
+  },
+  "Chelsea FAST (Threshold=25)": {
+    "num_features": 466,
+    "max_response": 132.0,
+    "mean_response": 32.27038626609442,
+    "min_response": 25.0,
+    "mean_size": 7.0
+  },
+  "Chelsea FAST (Threshold=50)": {
+    "num_features": 19,
+    "max_response": 132.0,
+    "mean_response": 59.78947368421053,
+    "min_response": 51.0,
+    "mean_size": 7.0
+  }
+}
